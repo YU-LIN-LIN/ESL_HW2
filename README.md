@@ -9,7 +9,10 @@ Gaussian filter module with TLM-2.0 interconnect.
 
 ### Go into the directory. 
   cd build
-
+  
+### Compile.
+  cmake ..
+  
 ### Read CMakeList.txt and visit the whole directory.
   make
 
